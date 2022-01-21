@@ -6,13 +6,13 @@ bu repo kodluyoruz front end egitiminde olusturdugumuz ilk repo. İçerisinde bi
 oncelikle projeyi konlayalım https://github.com/furkanyalcinkaya11/kodluyoruzilkrepo.git
 
 
-##USAGE
+## USAGE
 
 projeyi cloneladıkta sonra vscode programında acınız.
 
 ## CONTRIBUTING
 pull requestler kabul edilir. buyuk degisiklikler icin lutfen once neyi degistirmek istediğinizi tartısmak icin konu acınız.
 
-##LICENSE
+## LICENSE
  
  MIT
